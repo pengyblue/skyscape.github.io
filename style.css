@@ -47,6 +47,7 @@ body{
         margin: 40px auto;
         padding: 20px;
     }
+}
 @media (max-width: 470px){
     .card{
         margin: 20px;
